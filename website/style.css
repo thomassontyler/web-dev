@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(196, 255, 227);
+}
+
+h1 {
+    text-align: center;
+}
+
+.header {
+    border-bottom: .15em solid black;
+}

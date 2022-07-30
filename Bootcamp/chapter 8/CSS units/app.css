@@ -1,0 +1,35 @@
+html {
+    font-size: 10px;
+}
+
+section {
+    background-color: #6d6875;
+    width: 400px;
+    height: 800px;
+}
+
+div {
+    background-color: #e5989b;
+    width: 50%;
+    height: 50%;
+}
+
+button {
+    font-size: 1.5rem;
+    padding: 0 1em;
+    border-radius: 0.5em;
+    background-color: #caffbf;
+}
+
+h2 {
+    font-size: 3rem;
+}
+
+h3 {
+    font-size: 2rem;
+}
+
+ul {
+    font-size: 1.8rem;
+}
+
